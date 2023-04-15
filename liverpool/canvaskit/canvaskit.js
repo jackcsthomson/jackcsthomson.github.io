@@ -4,7 +4,7 @@ var CanvasKitInit = (() => {
   if (typeof __filename !== 'undefined') _scriptDir = _scriptDir || __filename;
   return (
 function(CanvasKitInit) {
-  CanvasKitInit = CanvasKitInit || {};fhfhfhfghfgh
+  CanvasKitInit = CanvasKitInit || {};
 
 
 null;var w;w||(w=typeof CanvasKitInit !== 'undefined' ? CanvasKitInit : {});var aa,ea;w.ready=new Promise(function(a,b){aa=a;ea=b});
