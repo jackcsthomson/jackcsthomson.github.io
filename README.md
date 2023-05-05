@@ -5,4 +5,4 @@
 3. [Material](https://jackcsthomson.github.io/material/)
 4. [Test](https://jackcsthomson.github.io/test/)
 5. [Calculator](https://jackcsthomson.github.io/calculator/)
-6. [Tic Tac Toe]((https://jackcsthomson.github.io/tictactoe/))
+6. [Tic Tac Toe](https://jackcsthomson.github.io/tictactoe/)
