@@ -31786,7 +31786,8 @@ A.Tw.prototype={
 $0(){this.a.e=[]},
 $S:0}
 A.TA.prototype={
-$0(){this.a.M5()},
+$0(){var s=this.a
+if(s.e.length===4)s.M5()},
 $S:0}
 A.eC.prototype={
 E(){return"AnimationStatus."+this.b}}
